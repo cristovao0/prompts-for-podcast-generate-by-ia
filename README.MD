@@ -1,99 +1,57 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+# ⚽ **Linha de Passe**  
+🎙️ *Opinião, tática e emoção na medida certa!*
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🏟️ Sobre o Podcast
+
+Bem-vindo ao **Linha de Passe**, o podcast onde o **Craque Neto** entra em campo sozinho, mas fala como se estivesse num bate-bola de boteco com milhões de torcedores!  
+Aqui, o papo é reto, o comentário é afiado e o amor pelo futebol é do tamanho do Maracanã lotado!
+
+A cada episódio, você vai ouvir:
+- ⚽ **Os lances e polêmicas da última rodada do Brasileirão**
+- 🌍 **Um giro rápido pelos principais campeonatos do mundo**
+- 🤣 **E aquele toque de humor que só o Craque Neto tem!**
+
+Se você respira futebol, discute VAR no almoço e acredita que “camisa pesa”, esse é o seu lugar.
+
+---
+
+## 🔊 Estrutura dos Episódios
+
+🕒 **Duração:** até 5 minutinhos — o tempo exato de um golaço de bicicleta virar replay nas redes.  
+
+🎧 **Blocos:**
+1. **[Introdução]** – Chamada quente com o principal fato da rodada  
+2. **[Curiosidade 1]** – O que rolou no Brasileirão  
+3. **[Curiosidade 2]** – Destaques dos campeonatos mundo afora  
+4. **[Finalização]** – Um encerramento bem-humorado e o convite pra próxima resenha  
+
+---
+
+## 🧠 Por que ouvir?
+
+Porque aqui ninguém enrola: é bola no chão, comentário na veia e zero firula!  
+Do primeiro apito ao apito final, você fica por dentro de tudo que mexe com o coração do torcedor.
+
+---
+
+## 💬 Fale com o Craque
+
+📩 **Quer participar?**  
+Manda sua opinião, corneta ou elogio — a arquibancada também fala!  
+
+📢 **Siga o Linha de Passe** nas plataformas de áudio e não perca o próximo episódio.  
+Se gostou, espalha pra geral — porque aqui, *a resenha nunca acaba*!
+
+---
+
+> “Futebol é emoção, é debate, é paixão.  
+> E aqui, a gente comenta tudo… sem medo do VAR!”
+
+---
+
+### 🏆 Produzido por:  
+**Craque Neto** – apresentador, comentarista e dono da bola.  
+
+📅 **Atualizado semanalmente após cada rodada.**
